@@ -1,12 +1,11 @@
 ---
-postUuid: 78f4f65e-8a6e-4bb8-9b60-52324a4f3635
+postUuid: 3f30a48e-8775-43f5-b63c-bee77751e0fe
 title: API SyntraPXL Opleidingen
 slug: api-syntrapxl-opleidingen
 tags:
-  - API
+  - Databases
 categories:
-  - Frontend
-  - API
+  - Backend
 ---
 
 Maak kennis met de API van SyntraPXL Opleidingen. Deze API biedt een dataset aan waarin gegevens rondom opleidingen van SyntraPXL zijn opgenomen. De API kan gebruikt worden via een `Personal Access Token` van Code Coaching.
