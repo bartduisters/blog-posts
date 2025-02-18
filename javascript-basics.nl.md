@@ -798,7 +798,7 @@ class Cursist {
   }
 
   set achternaam(achternaam) {
-    this.achternaam = achternaam;
+    this._achternaam = achternaam;
   }
 
   get naam() {
